@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BethanysPieShopHRM": {
+      "commandName": "Project",
+      "commandLineArgs": "this is dot net"
+    }
+  }
+}
